@@ -2,7 +2,7 @@
 🚀 **Binary Classification of Fake and Real News using Transformer Models**
 
 ## 📌 Project Overview
-This project fine-tunes a **DistilBERT** transformer model to classify news articles as **real or fake**. The dataset is sourced from Kaggle and consists of labeled news articles. The model achieves high accuracy in detecting misinformation.
+This project uses a **DistilBERT** transformer model to classify news articles as **real or fake**. The dataset is sourced from Kaggle and consists of labeled news articles. The model achieves high accuracy in detecting misinformation.
 
 ---
 
