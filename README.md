@@ -22,5 +22,5 @@ This project uses a **DistilBERT** transformer model to classify news articles a
 Clone this repository and install dependencies:
 ```bash
 git clone https://github.com/your_username/fake-news-detection.git
-cd fake-news-detection
-pip install -r requirements.txt
+Open Powershell in windows and run:
+pip install -r "path/to/requirements.txt"
